@@ -6,3 +6,4 @@ draft: false
 
 # elso post vagy micsoda
 Mert itt elvileg ilyeneket is lehet csinalni es ennek mi nagyon orulunk
+apacuka
